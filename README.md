@@ -10,3 +10,7 @@ Name: Youngbin LIM
 
 # Run command
 abaqus job=GAPCON_Test_model user=GAPCON.f int cpus=(number of cpus)
+
+# Prompt for GAPCON subroutine
+Please refer to the Linkedin post: 
+<br>https://www.linkedin.com/posts/lyb0684_chatgpt-abaqus-subroutine-activity-7044931314159927296-NZI-?utm_source=share&utm_medium=member_desktop
