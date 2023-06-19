@@ -4,22 +4,23 @@ User subroutine written by GPT-4 and Example model by human
 
 Written on Intel® Fortran Version 19.0.5
 
-
+<br>
 # AUTHOR
 Name: Youngbin LIM
 <br>E-mail: lyb0684@naver.com
-
+<br>
+# Graphical abstract
 ![1679642512395](https://github.com/YB-LIM/ChatGPT_GAPCON/assets/105615106/05e246d1-35c6-4308-9b16-d6b0645c3b7d)
 
-
+<br>
 # Run command
 abaqus job=GAPCON_Test_model user=GAPCON.f int cpus=(number of cpus)
 
-
+<br>
 # Prompt for GAPCON subroutine
 Please refer to the Linkedin post: 
 <br>https://www.linkedin.com/posts/lyb0684_chatgpt-abaqus-subroutine-activity-7044931314159927296-NZI-?utm_source=share&utm_medium=member_desktop
 
-
+<br>
 # Buy me a coffee
 <a href="https://www.buymeacoffee.com/lyb280199G" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
