@@ -4,7 +4,6 @@ User subroutine written by GPT-4 and Example model by human
 
 Written on Intel® Fortran Version 19.0.5
 
-<br>
 # AUTHOR
 Name: Youngbin LIM
 <br>E-mail: lyb0684@naver.com
