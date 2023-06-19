@@ -19,3 +19,7 @@ abaqus job=GAPCON_Test_model user=GAPCON.f int cpus=(number of cpus)
 # Prompt for GAPCON subroutine
 Please refer to the Linkedin post: 
 <br>https://www.linkedin.com/posts/lyb0684_chatgpt-abaqus-subroutine-activity-7044931314159927296-NZI-?utm_source=share&utm_medium=member_desktop
+
+
+# Buy me a coffee
+<a href="https://www.buymeacoffee.com/lyb280199G" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
